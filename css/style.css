@@ -11,8 +11,11 @@ h2{
 .header-area{
     background-color: #FFFBF0;
 }
+.custom-navbar .custom-navbar-nav .custom-navigation-link{
+    color: black;
+}
 .navigation-logo img{
-    height: 40px;
+    height: 32px;
 }
 .navigation-area li{
     color: black;
@@ -62,8 +65,8 @@ h2{
     margin: 100px 0px;
 }
 .contact-image{
-    width: 80%;
-    height: 350px;
+    width: 70%;
+    height: 270px;
 }
 .contact-card-image{
     width: 60%;
