@@ -33,7 +33,6 @@ h2{
 }
 .top-image{
     width: 80%;
-    /* height: 500px; */
 }
 .responsive-card{
     border: none;
@@ -82,7 +81,6 @@ h2{
 }
 form{
     text-align: center;
-   
 }
 footer{
     height: 100px;
