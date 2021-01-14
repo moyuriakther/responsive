@@ -11,12 +11,9 @@ h2{
 .header-area{
     background-color: #FFFBF0;
 }
-
 .navigation-logo img{
-
     height: 40px;
 }
-
 .navigation-area li{
     color: black;
 }
@@ -69,12 +66,11 @@ h2{
     height: 350px;
 }
 .contact-card-image{
-    width: 50%;
+    width: 60%;
 }
 .contact-card{
     border: none;
     border-radius: 15px;
-    
 }
 #subscribe{
     height: 300px;
